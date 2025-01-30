@@ -24,6 +24,6 @@ private class LeadTriggerHandlerTest {
 
     @isTest
     static void myUnitTest() {
-        // TO DO: implement unit test
+        // TO DO: implement unit test here
     }
 }
